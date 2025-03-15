@@ -1,1 +1,2 @@
 # googleIcon
+GoogleでGoogleじゃなくしたい人のための拡張ツール
